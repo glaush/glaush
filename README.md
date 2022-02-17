@@ -1,5 +1,3 @@
-### Hola 🙌
-
 ### Technologies & Tools
 
 <table width="100%">
